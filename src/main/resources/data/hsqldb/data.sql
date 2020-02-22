@@ -1,2 +1,5 @@
-INSERT INTO Greeting(text) values("Hello world");
-INSERT INTO Greeting(text) values ("Good Morning...");
+INSERT INTO GREETING (text) VALUES
+  ('Good Morning..'),
+  ('Welcome to possible'),
+  ('Hello world');
+
